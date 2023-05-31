@@ -1,10 +1,10 @@
-package com.ej4.ej4;
+package com.daniel.ej5;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Ej4ApplicationTests {
+class Ej5ApplicationTests {
 
 	@Test
 	void contextLoads() {

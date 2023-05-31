@@ -1,13 +1,13 @@
-package com.ej4.ej4;
+package com.daniel.ej5;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Ej4Application {
+public class Ej5Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Ej4Application.class, args);
+		SpringApplication.run(Ej5Application.class, args);
 	}
 
 }
