@@ -1,4 +1,4 @@
-package com.daniel.ej5;
+package com.ej5.ej5;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

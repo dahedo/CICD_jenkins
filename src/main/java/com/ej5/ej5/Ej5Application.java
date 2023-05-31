@@ -1,4 +1,4 @@
-package com.daniel.ej5;
+package com.ej5.ej5;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -8,13 +8,13 @@
 		<version>2.7.12</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.daniel</groupId>
+	<groupId>com.ej5</groupId>
 	<artifactId>ej5</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>ej5</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>17</java.version>
 		<spring-shell.version>2.1.10</spring-shell.version>
 	</properties>
 	<dependencies>
